@@ -13,7 +13,7 @@ recovery prompt, or after an update that stopped it booting.
 Remote sessions are relayed through an outbound connection from the device, so
 there is nothing to open on a router and no VPN to configure.
 
-![The Beacon console, listing devices on an account](profile/console.png)
+![The Beacon console, listing devices on an account](console.png)
 
 ### Repositories
 
