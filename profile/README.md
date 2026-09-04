@@ -29,4 +29,5 @@ there is nothing to open on a router and no VPN to configure.
 | [doc.beacon-kvm.com](https://doc.beacon-kvm.com) | Documentation |
 | [console.beacon-kvm.com](https://console.beacon-kvm.com) | Sign in and open a device |
 | [YouTube](https://www.youtube.com/@beaconkvm) | Demonstrations and build notes |
+| [Discord](https://discord.gg/jjXN7H6WcH) | Questions, and whatever anybody is stuck on |
 | support@beacon-kvm.com | Enquiries and support |
