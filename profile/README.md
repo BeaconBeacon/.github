@@ -15,6 +15,22 @@ there is nothing to open on a router and no VPN to configure.
 
 ![The Beacon console, listing devices on an account](console.png)
 
+### Articles
+
+Openings of the articles on beacon-kvm.com, each linking to the full text.
+
+| | |
+|---|---|
+| [IP KVM vs remote desktop](../article/ip-kvm-vs-remote-desktop.md) | What each one can reach, and which you actually need |
+| [Compared with PiKVM, JetKVM and TinyPilot](../article/ip-kvm-comparison.md) | Four IP KVMs side by side, including the row where we are behind |
+| [A remote machine won't boot](../article/server-wont-boot-remote.md) | What you can still do without driving there |
+| [What one onsite visit actually costs](../article/cost-of-an-onsite-visit.md) | Run your own numbers; one avoided trip usually pays for the hardware |
+| [An IP KVM for a homelab](../article/homelab.md) | Nothing in a homelab has a BMC |
+| [How to access a computer's BIOS remotely](../article/access-bios-remotely.md) | Why none of the tools you already have can get you there |
+| [A Raspberry Pi KVM, or a Beacon device](../article/raspberry-pi-or-a-beacon-device.md) | The same software; what the hardware decides |
+
+[All articles →](../article/README.md)
+
 ### Repositories
 
 | | |
@@ -25,7 +41,7 @@ there is nothing to open on a router and no VPN to configure.
 
 | | |
 |---|---|
-| [www.beacon-kvm.com](https://www.beacon-kvm.com) | Product information, specifications and pricing |
+| [beacon-kvm.com](https://beacon-kvm.com) | Product information, specifications and pricing |
 | [doc.beacon-kvm.com](https://doc.beacon-kvm.com) | Documentation |
 | [console.beacon-kvm.com](https://console.beacon-kvm.com) | Sign in and open a device |
 | [YouTube](https://www.youtube.com/@beaconkvm) | Demonstrations and build notes |
