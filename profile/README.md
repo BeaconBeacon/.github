@@ -17,31 +17,19 @@ there is nothing to open on a router and no VPN to configure.
 
 ### Articles
 
-Openings of the articles on beacon-kvm.com, each linking to the full text.
-
 | | |
 |---|---|
-| [IP KVM vs remote desktop](../article/ip-kvm-vs-remote-desktop.md) | What each one can reach, and which you actually need |
-| [Compared with PiKVM, JetKVM and TinyPilot](../article/ip-kvm-comparison.md) | Four IP KVMs side by side, including the row where we are behind |
-| [A remote machine won't boot](../article/server-wont-boot-remote.md) | What you can still do without driving there |
-| [What one onsite visit actually costs](../article/cost-of-an-onsite-visit.md) | Run your own numbers; one avoided trip usually pays for the hardware |
-| [An IP KVM for a homelab](../article/homelab.md) | Nothing in a homelab has a BMC |
-| [How to access a computer's BIOS remotely](../article/access-bios-remotely.md) | Why none of the tools you already have can get you there |
-| [A Raspberry Pi KVM, or a Beacon device](../article/raspberry-pi-or-a-beacon-device.md) | The same software; what the hardware decides |
-
-[All articles →](../article/README.md)
-
-### Articles
-
-| | |
-|---|---|
+| [Why you need an IP KVM](https://beacon-kvm.com/blogs/use-cases/why-you-need-an-ip-kvm) | Every remote tool you have runs inside the operating system; the day you need one most is the day it isn't there |
 | [IP KVM vs remote desktop: when you need hardware](https://beacon-kvm.com/blogs/use-cases/ip-kvm-vs-remote-desktop) | RDP, VNC, TeamViewer and AnyDesk run inside the operating system |
 | [Beacon KVM compared with PiKVM, JetKVM and TinyPilot](https://beacon-kvm.com/blogs/use-cases/ip-kvm-comparison) | An honest comparison of four IP KVMs — price, remote access, video, ports and power control |
+| [How to access a computer's BIOS remotely](https://beacon-kvm.com/blogs/use-cases/access-bios-remotely) | Remote desktop tools stop at the login screen |
 | [A remote machine won't boot. Now what?](https://beacon-kvm.com/blogs/use-cases/server-wont-boot-remote) | When a server or PC at another site stops booting, remote access dies with it |
 | [What one onsite visit actually costs](https://beacon-kvm.com/blogs/use-cases/cost-of-an-onsite-visit) | A truck roll to fix a machine costs far more than the drive |
 | [An IP KVM for a homelab](https://beacon-kvm.com/blogs/use-cases/homelab) | Homelab machines have no IPMI, live in a cupboard, and break at the worst moment |
-| [How to access a computer's BIOS remotely](https://beacon-kvm.com/blogs/use-cases/access-bios-remotely) | Remote desktop tools stop at the login screen |
 | [A Raspberry Pi KVM, or a Beacon device](https://beacon-kvm.com/blogs/use-cases/raspberry-pi-or-a-beacon-device) | The same software runs on a Raspberry Pi 4B you assemble yourself and on the Beacon Device we build |
+
+They are also in the repository, as markdown:
+[BeaconBeacon/KVM/articles](https://github.com/BeaconBeacon/KVM/tree/main/articles).
 
 ### Repositories
 
